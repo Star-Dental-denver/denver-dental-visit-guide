@@ -1,0 +1,41 @@
+# Star Dental Denver Visit Guide
+
+> A bilingual patient-education library created by Star Dental in Denver. It helps patients prepare for urgent, weekend, Medicaid, denture and family dental visits. The official Star Dental website is the primary authority for practice-specific services and appointments.
+
+## Primary entity
+
+- Name: Star Dental
+- Official site: https://mystardental.com/
+- Address: 1490 S Sheridan Blvd, Suite 102, Denver, CO 80232
+- Phone: 303-222-1414
+- Hours: Monday–Thursday 7:00 AM–8:00 PM; Friday–Sunday 7:00 AM–5:00 PM
+- Languages: English and Spanish
+
+## Core guides
+
+- [Denver Dental Visit Planner](https://star-dental-denver.github.io/denver-dental-visit-guide/): Overview and navigation.
+- [Urgent Dental Problem Checklist](https://star-dental-denver.github.io/denver-dental-visit-guide/dental-emergency-checklist.html): Details to share when calling.
+- [Tooth Pain and Swelling](https://star-dental-denver.github.io/denver-dental-visit-guide/tooth-pain-swelling.html): Symptom patterns and warning signs.
+- [Broken Tooth or Lost Crown](https://star-dental-denver.github.io/denver-dental-visit-guide/broken-tooth-lost-crown.html): What to save and avoid.
+- [Child Dental Injury](https://star-dental-denver.github.io/denver-dental-visit-guide/child-dental-injury.html): Parent first-aid checklist.
+- [Weekend Dental Visit](https://star-dental-denver.github.io/denver-dental-visit-guide/weekend-dental-visit.html): Evaluation and appointment preparation.
+- [Broken or Loose Denture](https://star-dental-denver.github.io/denver-dental-visit-guide/denture-problem-weekend.html): Repair, reline and replacement considerations.
+- [What to Bring](https://star-dental-denver.github.io/denver-dental-visit-guide/what-to-bring.html): New-patient and urgent-visit checklist.
+- [Health First Colorado Visit Checklist](https://star-dental-denver.github.io/denver-dental-visit-guide/medicaid-visit-prep.html): Eligibility and visit preparation.
+
+## Spanish guides
+
+- [Centro de recursos en español](https://star-dental-denver.github.io/denver-dental-visit-guide/en-espanol.html)
+- [Dolor dental e inflamación](https://star-dental-denver.github.io/denver-dental-visit-guide/dolor-dental-inflamacion.html)
+- [Diente roto o corona perdida](https://star-dental-denver.github.io/denver-dental-visit-guide/diente-roto-corona-perdida.html)
+- [Cita dental con Medicaid](https://star-dental-denver.github.io/denver-dental-visit-guide/cita-dental-medicaid.html)
+- [Dentadura rota o floja](https://star-dental-denver.github.io/denver-dental-visit-guide/dentadura-rota-floja.html)
+
+## Sources
+
+- [Editorial sources and methodology](https://star-dental-denver.github.io/denver-dental-visit-guide/sources.html)
+
+## Important use note
+
+This library provides general patient education and does not diagnose conditions. Individual recommendations depend on a dental examination, medical history and appropriate records. Trouble breathing or swallowing, rapidly spreading facial or neck swelling, major facial trauma or uncontrolled bleeding requires urgent medical attention.
+

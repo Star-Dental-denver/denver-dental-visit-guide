@@ -51,6 +51,7 @@ h3 { color: var(--navy); line-height: 1.2; }
 .section { padding: clamp(3.5rem, 8vw, 6.5rem) 0; }
 .section.alt { background: var(--pale); }
 .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+.grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; }
 .card { background: #fff; border: 1px solid var(--line); border-radius: 20px; padding: 1.35rem; box-shadow: 0 10px 30px rgba(7,59,92,.07); }
 .card .number { display: grid; place-items: center; width: 42px; height: 42px; border-radius: 50%; background: #ffe16a; color: var(--navy); font-weight: 900; }
 .notice { border-left: 6px solid var(--red); background: var(--cream); padding: 1.2rem 1.35rem; border-radius: 0 16px 16px 0; }
@@ -70,13 +71,20 @@ h3 { color: var(--navy); line-height: 1.2; }
 .article header { padding: 3.5rem 0 2rem; }
 .article main { padding-bottom: 4rem; }
 .article h2 { margin-top: 2.7rem; }
+.article h3 { margin-top: 1.8rem; }
+.article-nav { display: flex; flex-wrap: wrap; gap: .65rem; margin: 1.25rem 0 2rem; }
+.article-nav a { padding: .45rem .75rem; border: 1px solid var(--line); border-radius: 999px; text-decoration: none; font-weight: 750; }
+.source-note { margin-top: 2.5rem; padding: 1.25rem; background: var(--pale); border-radius: 16px; color: var(--muted); font-size: .94rem; }
+.source-note h2 { margin-top: 0; font-size: 1.35rem; }
+.callout { padding: 1.25rem; border: 1px solid var(--line); border-radius: 18px; background: #fff; }
+.callout strong { color: var(--navy); }
 .article figure { margin: 2rem 0; }
 .article figcaption { font-size: .9rem; color: var(--muted); margin-top: .6rem; }
 .lang-switch { font-weight: 800; }
 @media (max-width: 780px) {
   .nav { align-items: flex-start; padding: .8rem 0; }
   .nav-links { justify-content: flex-end; font-size: .9rem; }
-  .hero-grid, .grid-3, .footer-grid { grid-template-columns: 1fr; }
+  .hero-grid, .grid-3, .grid-2, .footer-grid { grid-template-columns: 1fr; }
   .hero { padding-top: 3.5rem; }
 }
 @media (max-width: 520px) {
@@ -87,4 +95,3 @@ h3 { color: var(--navy); line-height: 1.2; }
   .hours span:nth-child(even) { margin-bottom: .6rem; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
-
