@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://star-dental-denver.github.io/denver-dental-visit-guide/sitemap.xml
+
